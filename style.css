@@ -1,0 +1,13 @@
+:root {
+  background-image: url(bg-image.svg);
+}
+body {
+  
+}
+
+#page {
+  background-color: #F0E8C2 ;
+  width: 800px;
+  height: 1440px;
+}
+
